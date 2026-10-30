@@ -1,0 +1,4 @@
+DEPOSITO: + R$ 500.00 | Saldo Reais: R$ 1000.00
+SAQUE: - R$ 250.00 | Saldo Reais: R$ 750.00
+COMPRA BTC: Gastou R$ 250.00 (Taxa: R$ 5.00) | Comprou: 0.000817 BTC
+VENDA BTC: Vendeu 0.000817 BTC | Recebeu R$ 237.75 (Taxa: R$ 7.35)
